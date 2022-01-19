@@ -1,17 +1,28 @@
-### Eae! sou o Lucas, Desenvolvedor em formação...
-- 💻 Em transição de carreira para área de tecnologia
-- 🎓 Estudando Desenvolvimento Full-stack
-- 💀 “ѕι νιѕ ρα¢єм, ραяα вєℓℓυм”
+### Eae! sou o Lucas, Desenvolvedor Full-Stack Java Junior...
+- 🎓 Generation Brazil
+- 📍 São Paulo
 <div align="">
   <a href="https://github.com/LuukasOo">
   <img height="140em" src="https://github-readme-stats.vercel.app/api?username=LuukasOo&show_icons=true&theme=github_dark&include_all_commits=true&count_private=true"/>
   <img height="140em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=LuukasOo&layout=compact&langs_count=7&theme=github_dark"/>
 </div>
 <div style="display: inline_block"><br>
-  <img align="center" alt="Vini-Java" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg">
-  <img align="center" alt="Vini-HTML" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
-  <img align="center" alt="Vini-CSS" height="30" width="40"  src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg">
-  <img align="center" alt="Vini-Js" height="30" width="40"   src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
+  
+  <img align="center" alt="Js" height="50" width="50"        src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg" />
+  <img align="center" alt="type"  height="50" width="50"     src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-plain.svg" />
+  <img align="center" alt="HTML" height="50" width="50"      src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg" />
+  <img align="center" alt="CSS" height="50" width="50"       src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" />
+  <img align="center" alt="Angular" height="50" width="50"   src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/angularjs/angularjs-plain.svg" />
+   <img align="center" alt="ReactJS" height="50" width="50"   src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original-wordmark.svg" />
+  <img align="center" alt="Java" height="50" width="50"      src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" />
+  <img align="center" alt="MySQL" height="50" width="50"     src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original-wordmark.svg" />
+   
+
+
+ 
+
+  
+
   
  
 </div>
