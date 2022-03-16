@@ -9,14 +9,14 @@
 <div style="display: inline_block"><br>
   
   <img align="center" alt="Java" height="50" width="50"      src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" />
-  <img align="center" alt="Js" height="50" width="50"        src="https://img.icons8.com/color/344/spring-logo.png" />
+  <img align="center" alt="SG" height="50" width="50"        src="https://img.icons8.com/color/344/spring-logo.png" />
+  <img align="center" alt="MySQL" height="50" width="50"     src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original-wordmark.svg" />
   <img align="center" alt="Js" height="50" width="50"        src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg" />
   <img align="center" alt="MySQL" height="50" width="50"     src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original-wordmark.svg" />
   <img align="center" alt="type"  height="50" width="50"     src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-plain.svg" />
   <img align="center" alt="HTML" height="50" width="50"      src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg" />
   <img align="center" alt="CSS" height="50" width="50"       src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" />
   <img align="center" alt="Angular" height="50" width="50"   src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/angularjs/angularjs-plain.svg" />
-  <img align="center" alt="MySQL" height="50" width="50"     src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original-wordmark.svg" />
    
 
 
