@@ -1,5 +1,5 @@
 ### Eae! sou o Lucas, Desenvolvedor Java Junior...
-- 🎓 Generation Brazil
+- 🎓 Analise e Desenvolvimento de Sistemas
 - 📍 São Paulo
 <div align="">
   <a href="https://github.com/LuukasOo">
