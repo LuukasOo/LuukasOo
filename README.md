@@ -1,5 +1,6 @@
 ### Eae! sou o Lucas, Desenvolvedor .Net Junior...
-- 🎓 Analise e Desenvolvimento de Sistemas
+- 🔭 Atualmente trabalho como FullStack .NET Junior
+- 🌱 Estou aprofundando meus estudos em .NET
 - 📍 São Paulo
 <div align="">
   <a href="https://github.com/LuukasOo">
