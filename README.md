@@ -1,7 +1,7 @@
 ### Eae! sou o Lucas, Desenvolvedor .Net Junior...
 
-- 🔭 Atualmente trabalho como FullStack .NET Junior
-- 🌱 Estou aprofundando meus estudos em .NET
+- 🔭 Atualmente trabalho como .NET Developer
+- 🌱 Estou aprofundando meus conhencimentos em Arquitetura e soluções .NET
 - 📍 São Paulo
 <div align="">
   <a href="https://github.com/LuukasOo">
@@ -14,7 +14,8 @@
   <img align="center" alt="HTML" height="40" width="40"      src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg" />
   <img align="center" alt="CSS" height="40" width="40"       src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" />
   <img align="center" alt="Ts"  height="40" width="40"       src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-plain.svg" />
-  <img align="center" alt="Angular" height="40" width="40"   src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/angularjs/angularjs-plain.svg" />
+  <img align="center" alt="Azure" height="40" width="40"   src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/angularjs/angularjs-plain.svg](https://cdn.jsdelivr.net/gh/devicons/devicon/icons/azure/azure-original.svg" />
+  
    
 
 
