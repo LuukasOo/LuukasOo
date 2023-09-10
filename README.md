@@ -1,7 +1,7 @@
 ### Eae! sou o Lucas, Desenvolvedor .Net Junior...
 
 - 🔭 Atualmente trabalho como .NET Developer
-- 🌱 Estou aprofundando meus conhencimentos em Arquitetura e soluções .NET
+- 🌱 Estou aprofundando meus conhencimentos em Arquitetura e Desenvolvimento .NET
 - 📍 São Paulo
 <div align="">
   <a href="https://github.com/LuukasOo">
