@@ -1,4 +1,4 @@
-### Eae! sou o Lucas, Desenvolvedor .Net!
+### Eae! sou o Lucas, Desenvolvedor .Net
 
 - 🔭 Atualmente trabalho como .NET Developer
 - 🌱 Estou aprofundando meus conhencimentos em Arquitetura e Desenvolvimento .NET
